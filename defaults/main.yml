@@ -1,0 +1,3 @@
+---
+virtualbox_version: 5.0
+virtualbox_package_name: virtualbox-{{ virtualbox_version }}
